@@ -39,3 +39,11 @@ Lingua di lavoro: **italiano** (l'utente è madrelingua italiano; rispondere nel
 - La rete della sessione blocca di default `www.google.com`; va abilitato tra i domini consentiti nelle impostazioni dell'ambiente (Network access).
 - `WebFetch` su Google Maps non restituisce i risultati; l'API Directions richiede una chiave. Funziona invece **Playwright/Chromium** (preinstallato) che apre `https://www.google.com/maps/dir/<A>/<B>` e legge testo "N km / durata / tramite …" della pagina (interfaccia in italiano).
 - Salvare script e output temporanei nello scratchpad, non nel repository.
+
+## Sito (GitHub Pages)
+
+- Pubblicato da `main`, cartella radice: `index.html` è la pagina con tutte le proposte, le brochure sono in `brochure/opzione-N.html`.
+- URL: https://marcoscattolin.github.io/germany2027/ (Pages va attivato in Settings → Pages → Deploy from a branch → `main` / root).
+- I link tra le brochure sono relativi (`opzione-N.html`, `../` per l'indice): non usare link agli artifact claude.ai, che sono privati.
+- Aggiungendo una nuova opzione: creare la brochure, aggiungerla all'indice e al blocco "Sfoglia le altre proposte" e alla tabella di confronto delle altre brochure.
+- `.nojekyll` serve a far servire i file così come sono.
