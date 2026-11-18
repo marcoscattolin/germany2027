@@ -99,7 +99,7 @@ Il giro più ricorrente nei diari di famiglie italiane in camper. Rinuncia a Ber
 | Ven 27/8 | **Europa-Park** (sosta) | 0 | – | – |
 | Sab 28/8 | Rust → **Friburgo** | 39 | 0h38 | A5 |
 | Dom 29/8 | Friburgo → **Cascate del Reno** (Neuhausen, CH) | 99 | 1h31 | B31 + B27 |
-| Lun 30/8 | Neuhausen → **Milano** | 338 ⚠️ | 3h50 | A1 + A2 (San Gottardo) |
+| Lun 30/8 | Neuhausen → **Milano** | 338 ⚠️ | 3h50 | A4 + A2 (San Gottardo) |
 
 **Totale: 1.080 km** (meno della metà delle opzioni con Berlino)
 
