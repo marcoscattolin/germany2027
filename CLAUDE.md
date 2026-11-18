@@ -22,14 +22,17 @@ Lingua di lavoro: **italiano** (l'utente è madrelingua italiano; rispondere nel
     - Berlino → Norimberga ~440 km
     - Lindau/Ulma → Milano ~300–430 km
     - alcune tappe saranno intorno a 160–190 km (es. Lipsia → Berlino).
-- Tappe e attrazioni emerse finora: Lindau, Ulma, Nördlingen, Rothenburg ob der Tauber, Bamberga, Norimberga, Pottenstein (Svizzera Francone), Saalfeld (Feengrotten), Erfurt, Lipsia (zoo), Günzburg (Legoland), Füssen (Neuschwanstein).
-- Distanze Google Maps già rilevate (km): Milano–Ulma 429; Milano–Lindau 318; Lindau–Ulma 119; Ulma–Rothenburg 137; Ulma–Nördlingen ~83; Lipsia–Erfurt 147; Ulma–Milano 430; Günzburg–Milano 449.
-- Da fare: completare le distanze di tutte le tappe di B, scegliere campeggi adatti a 3 camper, verificare le tappe al limite dei 150 km.
+  - **Opzione 4 – senza Berlino (giro corto):** anello Lago di Costanza + Foresta Nera, ~1.080 km, rispetta i vincoli originali (solo 2 eccezioni: andata e ritorno):
+    Milano → Lindau 318 ⚠️ → Uhldingen 49 → (sosta: Mainau/Meersburg) → Titisee 108 → (sosta) → Triberg 40 → Gutach → Rust/Europa-Park 89 → (sosta) → Friburgo 39 → Cascate del Reno (Neuhausen, CH) 99 → Milano 338 ⚠️ (Gottardo).
+  - Dettagli di tutte le opzioni (1–3 con Berlino, 4 senza) in `ITINERARIO.md`.
+- Tappe e attrazioni emerse finora: Lindau, Ulma, Nördlingen, Rothenburg ob der Tauber, Bamberga, Norimberga, Pottenstein (Svizzera Francone), Saalfeld (Feengrotten), Erfurt, Lipsia (zoo), Günzburg (Legoland), Füssen (Neuschwanstein); per l'opzione 4: Uhldingen (palafitte, Affenberg Salem), isola di Mainau, Titisee, Triberg (cascate), Gutach (Vogtsbauernhof), Rust (Europa-Park, Rulantica), Friburgo, Cascate del Reno.
+- Distanze Google Maps già rilevate (km): Milano–Ulma 429; Milano–Lindau 318; Lindau–Ulma 119; Ulma–Rothenburg 137; Ulma–Nördlingen ~83; Lipsia–Erfurt 147; Ulma–Milano 430; Günzburg–Milano 449; Lindau–Uhldingen 49; Lindau–Meersburg 44; Uhldingen–Titisee 108; Titisee–Triberg 40; Titisee–Rust 70; Triberg–Rust 89; Rust–Freiburg 39; Freiburg–Neuhausen am Rheinfall 99; Neuhausen–Milano 338; Konstanz–Milano 358; Füssen–Lindau 104; Füssen–Milano 414; Triberg–Hechingen 77; Hechingen–Günzburg 157; Günzburg–Füssen 146.
+- Da fare: scegliere tra le opzioni (con o senza Berlino), completare le distanze di tutte le tappe di B, scegliere campeggi adatti a 3 camper, verificare le tappe al limite dei 150 km.
 
 ## Note pratiche
 
 - Pedaggi/vignette: Svizzera (vignetta) se si passa dal San Bernardino/Lindau; Austria (vignetta + Brennero) se si passa dal Tirolo. Oltre 3,5 t: GO-Box in Austria, LSVA in Svizzera.
-- Fine agosto: in alcuni Länder (soprattutto Baviera) ci sono ancora vacanze scolastiche → prenotare i campeggi con largo anticipo (Füssen, Legoland, Berlino).
+- Fine agosto: in alcuni Länder (soprattutto Baviera) ci sono ancora vacanze scolastiche → prenotare i campeggi con largo anticipo (Füssen, Legoland, Berlino; per l'opzione 4 Europa-Park, Titisee, Lago di Costanza).
 
 ## Calcolo distanze (ambiente cloud)
 
