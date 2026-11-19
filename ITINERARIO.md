@@ -1,6 +1,6 @@
 # Germania in camper – 20-30 agosto 2027
 
-Anello Milano → Berlino → Milano, con Berlino raggiunta in camper (opzioni 1-3), oppure giro corto senza Berlino (opzione 4).
+Anello Milano → Berlino → Milano, con Berlino raggiunta in camper (opzioni 1-3), oppure giro corto senza Berlino (opzione 4), oppure Milano → Amsterdam → Milano (opzione 5).
 3 famiglie, ragazzi 9-12 anni. Vincolo: max 150 km/giorno, salvo pochi giorni di trasferimento lungo (⚠️).
 
 Distanze e tempi da Google Maps (percorso più veloce, **in auto**: con il camper calcolare +20-30% sul tempo).
@@ -8,6 +8,7 @@ Distanze e tempi da Google Maps (percorso più veloce, **in auto**: con il campe
 Le opzioni 1 e 2 differiscono **solo nei primi due giorni** (Ulma oppure Stoccarda); dal 22/8 in poi sono identiche.
 L'opzione 3 è un percorso diverso, "Germania Est", ispirato ai diari dei camperisti (Svizzera Sassone, Dresda, Spreewald).
 L'opzione 4 **rinuncia a Berlino**: anello Lago di Costanza + Foresta Nera, meno della metà dei km e solo 2 giorni lunghi.
+L'opzione 5 sostituisce Berlino con **Amsterdam**: Reno romantico all'andata, paesini olandesi (Giethoorn, Marken, Volendam, Delft) e due giri in bici.
 
 ---
 
@@ -119,16 +120,52 @@ Il giro più ricorrente nei diari di famiglie italiane in camper. Rinuncia a Ber
 
 ---
 
+## Opzione 5 – Milano → Amsterdam → Milano (Reno, paesini olandesi e bici)
+
+| Giorno | Tappa | km | Tempo (auto) | Strada |
+|---|---|---|---|---|
+| Ven 20/8 | Milano → **Colmar** (Alsazia) | 402 ⚠️ | 4h39 | A2 (San Gottardo) |
+| Sab 21/8 | Colmar → **Speyer** | 181 | 1h58 | A35 |
+| Dom 22/8 | Speyer → **St. Goar** (Reno romantico) | 138 | 1h23 | A61 |
+| Lun 23/8 | St. Goar → **Colonia** | 138 | 1h32 | A61 |
+| Mar 24/8 | Colonia → **Hoge Veluwe** (Otterlo) | 184 | 2h02 | A3 |
+| Mer 25/8 | Hoge Veluwe → **Giethoorn** | 100 | 1h08 | A50 |
+| Gio 26/8 | Giethoorn → **Amsterdam** | 116 | 1h18 | A6 |
+| Ven 27/8 | **Amsterdam** – giro in bici nel Waterland | 0 | – | – |
+| Sab 28/8 | Amsterdam → Delft → **Kinderdijk** | 107 | 1h23 | A4 + A16 |
+| Dom 29/8 | Kinderdijk → **Karlsruhe** | 526 ⚠️ | 5h37 | A61 |
+| Lun 30/8 | Karlsruhe → **Milano** | 528 ⚠️ | 5h34 | A5 + A2 |
+
+**Totale: 2.420 km** (il percorso più lungo), 3 giorni lunghi, di cui gli ultimi due di fila.
+
+**Cosa fare:**
+- **Colmar / Eguisheim**: Petite Venise con giro in barca, borgo di Eguisheim a 7 km.
+- **Speyer**: Technik Museum (si sale sull'ala di un Boeing 747, Space Shuttle Buran, sottomarino); area camper accanto al museo.
+- **St. Goar**: Burg Rheinfels con i cunicoli, battello sul Reno sotto la Loreley fino a Bacharach.
+- **Colonia**: salita sul campanile del duomo (533 gradini), Museo del cioccolato.
+- **Hoge Veluwe**: primo giro in bici con le biciclette bianche gratuite del parco, museo Kröller-Müller (Van Gogh), campeggio nel parco.
+- **Giethoorn**: il paese senza strade, barche elettriche (fluisterboot) a noleggio senza patente.
+- **Amsterdam**: battello sui canali, NEMO (museo della scienza), Casa di Anna Frank (biglietti solo online).
+- **Giro in bici nel Waterland** (~25 km in piano): traghetto gratuito dietro la Centraal → Durgerdam → Broek in Waterland → Monnickendam → Marken; battello Marken Express fino a Volendam, rientro in bus o in bici. Alternativa: mulini della Zaanse Schans.
+- **Delft**: centro storico e ceramica blu; in alternativa Madurodam (L'Aia).
+- **Kinderdijk**: i 19 mulini UNESCO, in bici lungo i canali o in battello.
+
+**Rientri alternativi calcolati (scartati):** da Hoge Veluwe via Heidelberg (425 + 578 km) o via Coblenza (284 + 735); da Kinderdijk via Strasburgo (570 + 481) o Lussemburgo (349 + 688). Karlsruhe divide il rientro nel modo più equilibrato.
+
+**Per alleggerire:** partire il 19/8 o rientrare il 31/8, oppure togliere Speyer (Colmar → St. Goar direttamente).
+
+---
+
 ## Confronto rapido
 
-| | Opzione 1 – Ulma | Opzione 2 – Stoccarda | Opzione 3 – Germania Est | Opzione 4 – Costanza + Foresta Nera |
-|---|---|---|---|---|
-| Berlino | sì | sì | sì | **no** |
-| Primo giorno | 429 km / ~5h (auto) | 506 km / ~6h (auto), 7-7,5h in camper | 429 km / ~5h, ma il secondo giorno 536 km | 318 km / ~3h50 (auto) |
-| Giorni lunghi (⚠️) | 3 | 3 | 4 | 2 |
-| Totale viaggio | 2.251 km | 2.340 km | 2.330 km | 1.080 km |
-| Per i ragazzi | Campanile, centro storico | Museo Mercedes/Porsche, Wilhelma | Bastei, canoa nello Spreewald, Tropical Islands | Europa-Park, lago, cascate, palafitte, scimmie |
-| Consigliata se… | si vuole partire con calma | ai ragazzi piacciono le auto | si preferiscono natura e acqua alle città medievali | si vuole guidare poco e avere più giorni fermi |
+| | Opzione 1 – Ulma | Opzione 2 – Stoccarda | Opzione 3 – Germania Est | Opzione 4 – Costanza + Foresta Nera | Opzione 5 – Amsterdam |
+|---|---|---|---|---|---|
+| Berlino | sì | sì | sì | **no** | no (Amsterdam) |
+| Primo giorno | 429 km / ~5h (auto) | 506 km / ~6h (auto), 7-7,5h in camper | 429 km / ~5h, ma il secondo giorno 536 km | 318 km / ~3h50 (auto) | 402 km / ~4h40 (auto) |
+| Giorni lunghi (⚠️) | 3 | 3 | 4 | 2 | 3 |
+| Totale viaggio | 2.251 km | 2.340 km | 2.330 km | 1.080 km | 2.420 km |
+| Per i ragazzi | Campanile, centro storico | Museo Mercedes/Porsche, Wilhelma | Bastei, canoa nello Spreewald, Tropical Islands | Europa-Park, lago, cascate, palafitte, scimmie | Technik Museum, bici, barche a Giethoorn, mulini |
+| Consigliata se… | si vuole partire con calma | ai ragazzi piacciono le auto | si preferiscono natura e acqua alle città medievali | si vuole guidare poco e avere più giorni fermi | si vuole una capitale con bici, canali e paesini |
 
 ---
 
